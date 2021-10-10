@@ -1,2 +1,2 @@
 # m5StickC
-M5StickC micro python simple toools
+M5StickC micro python simple tools
